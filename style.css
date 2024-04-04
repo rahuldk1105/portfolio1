@@ -91,7 +91,7 @@ textarea {
     top: calc(100% + 1.5rem);
     height: 5px;
     width: 3rem;
-    background-image: linear-gradient(120deg, #84fab0 0%, #8fd3f4 100%);
+    background-image: linear-gradient(to top, #30cfd0 0%, #330867 100%);
     left: 50%;
     transform: translateX(-50%);
     border-radius: 5px; }
@@ -173,7 +173,7 @@ textarea {
 
 .home-hero {
   color: #fff;
-  background-image: linear-gradient(120deg, #84fab0 0%, #8fd3f4 100%);
+  background-image: linear-gradient(to top, #30cfd0 0%, #330867 100%);
   background-position: center;
   height: 100vh;
   min-height: 80rem;
@@ -311,7 +311,7 @@ textarea {
           font-size: 1.7rem; } }
 
 .contact {
- background-image: linear-gradient(120deg, #84fab0 0%, #8fd3f4 100%);
+ background-image: linear-gradient(to top, #30cfd0 0%, #330867 100%);
   background-size: cover;
   background-position: center; }
   .contact__form-container {

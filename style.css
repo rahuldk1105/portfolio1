@@ -193,7 +193,7 @@ textarea {
 
 .home-hero {
   color: #fff;
-  background-image: url('section1.html'); <!-- bg change from gradient to animation  -->
+  background-image: url('section1-bg.html'); <!-- bg change from gradient to animation  -->
   background-position: center;
   height: 100vh;
   min-height: 80rem;

@@ -33,6 +33,23 @@
     animation: cursorAnim2 .5s infinite alternate;
 }
 
+.background-section {
+  position: relative;
+  width: 100%;
+  height: 100vh; /* Adjust as needed */
+  background-image: url('path/to/your/background.html'); /* Replace 'path/to/your/background.html' with the actual path to your HTML file */
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+/* Style adjustments for your content */
+.background-section h1 {
+  color: #fff;
+  text-align: center;
+  margin-top: 50px;
+}
+
 @keyframes cursorAnim {
     from {
         transform: scale(1);

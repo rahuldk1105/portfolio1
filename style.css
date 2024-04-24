@@ -8,6 +8,23 @@
   box-sizing: inherit;
   font-family: inherit; }
 
+body {
+  cursor: none; 
+}
+
+.custom-cursor {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 20px; 
+  height: 20px;
+  background-color: #ff0000; 
+  border-radius: 50%;
+  pointer-events: none; 
+  z-index: 9999; 
+  transition: transform 0.3s ease; 
+}
+
 html {
   font-size: 62.5%;
   scroll-behavior: smooth; }

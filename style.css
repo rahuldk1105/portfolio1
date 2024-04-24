@@ -201,7 +201,6 @@ textarea {
     top: calc(100% + 1.5rem);
     height: 5px;
     width: 3rem;
-    background-image: linear-gradient(to top, #30cfd0 0%, #330867 100%);
     left: 50%;
     transform: translateX(-50%);
     border-radius: 5px; }

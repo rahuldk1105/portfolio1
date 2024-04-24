@@ -282,7 +282,6 @@ textarea {
 
 .home-hero {
   color: #fff;
-  background-image:linear-gradient(to top, #30cfd0 0%, #330867 100%); /*bg change not working ; animation */
   background-position: center;
   height: 100vh;
   min-height: 80rem;

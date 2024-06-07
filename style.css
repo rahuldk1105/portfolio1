@@ -34,14 +34,11 @@
 }
 
 .home-hero {
-    /* Set the background properties */
-    background-size: cover; /* Adjust to your preference */
-    background-position: center center; /* Center the image */
-    background-repeat: no-repeat; /* Prevent repetition */
-    /* Add any other styling you need for the section */
-}
+    background-size: cover;
+    background-position: center center; 
+    background-repeat: no-repeat; 
 
-/* Style adjustments for your content */
+
 .background-section h1 {
   color: #000000;
   text-align: center;

@@ -33,14 +33,12 @@
     animation: cursorAnim2 .5s infinite alternate;
 }
 
-.background-section {
-  position: relative;
-  width: 100%;
-  height: 100vh; /* Adjust as needed */
-  background-image: url('cube-animation.html'); /* Replace 'path/to/your/background.html' with the actual path to your HTML file */
-  background-size: cover;
-  background-position: center;
-  background-repeat: no-repeat;
+.home-hero {
+    /* Set the background properties */
+    background-size: cover; /* Adjust to your preference */
+    background-position: center center; /* Center the image */
+    background-repeat: no-repeat; /* Prevent repetition */
+    /* Add any other styling you need for the section */
 }
 
 /* Style adjustments for your content */
